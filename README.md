@@ -13,4 +13,4 @@ This project provides a comprehensive analysis of sales data for a fictional piz
 - Size Matters: Large (L) pizzas are the most popular, contributing to 45.89% of total revenue.
 - Top Seller: The Classic Deluxe Pizza is the highest-grossing product, followed closely by the BBQ Chicken Pizza.
 
-![Pizza Dashboard](Dashboard_Preview)
+![Pizza Dashboard](Dashboard_Preview.pdf)
