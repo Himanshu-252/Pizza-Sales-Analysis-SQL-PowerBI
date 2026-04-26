@@ -12,3 +12,5 @@ This project provides a comprehensive analysis of sales data for a fictional piz
 - Revenue Performance: The shop generated a total revenue of $817.86K with an average order value of $38.31.
 - Size Matters: Large (L) pizzas are the most popular, contributing to 45.89% of total revenue.
 - Top Seller: The Classic Deluxe Pizza is the highest-grossing product, followed closely by the BBQ Chicken Pizza.
+
+![Pizza Dashboard](Dashboard_Preview.png.png)
